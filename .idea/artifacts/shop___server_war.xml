@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shop___server:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.fatuev.shop.server-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="shop___server:war exploded" />
+    </root>
+  </artifact>
+</component>
